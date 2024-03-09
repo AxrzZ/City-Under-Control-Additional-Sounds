@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "City Under Control §7| §eAdditional Sounds",
+		"description": "Additional Sounds for City Under Control Map.\nMade by §eAxrzZ\n§rMy GitHub §ehttps://github.com/AxrzZ",
+		"uuid": "e26e8d1b-df84-4734-a3d6-b415113ee5a4",
+		"min_engine_version": [1, 20, 0],
+		"version": [1, 0, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "c51023a0-265c-4d8e-b690-baee5049206d",
+			"version": [1, 0, 0]
+		}
+	]
+}

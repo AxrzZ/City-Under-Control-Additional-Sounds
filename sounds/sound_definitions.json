@@ -1,0 +1,317 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"button.close": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/button/button_close"]
+		},
+		"button.open": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/button/button_open"]
+		},
+		"button.1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/button/button1"]
+		},
+		"siren.1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/siren/siren1"]
+		},
+		"siren.2": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/siren/siren2"]
+		},
+		"siren.3": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/siren/siren3"]
+		},
+		"siren.4": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/siren/siren4"]
+		},
+		"siren.5": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/siren/siren5"]
+		},
+		"steam.1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/steam/steam1"]
+		},
+		"steam.2": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/steam/steam2"]
+		},
+		"teleport.load": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/teleport/teleport_load"]
+		},
+		"teleport.1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/teleport/teleport1"]
+		},
+		"teleport.2": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/teleport/teleport2"]
+		},
+		"water.1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/water/water1"]
+		},
+		"water.2": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/water/water2"]
+		},
+		"wave.1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wave/wave1"]
+		},
+		"wave.2": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wave/wave2"]
+		},
+		"wave.3": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wave/wave3"]
+		},
+		"wind.tunnel": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wind/wind_tunnel"]
+		},
+		"wind.1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wind/wind1"]
+		},
+		"wind.2": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wind/wind2"]
+		},
+		"wind.3": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wind/wind3"]
+		},
+		"wind.4": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wind/wind4"]
+		},
+		"wind.5": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/wind/wind5"]
+		},
+		"other.generator": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/other/generator"]
+		},
+		"other.helicopter": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/other/helicopter"]
+		},
+		"other.metal": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/other/metal"]
+		},
+		"other.pod_close": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/other/pod_close"]
+		},
+		"other.pod_open": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/other/pod_open"]
+		},
+		"other.scream1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/other/scream1"]
+		},
+		"other.train": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/other/train"]
+		},
+		"other.wall": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/ambient/sfx/other/wall"]
+		},
+		"sound.1": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/ambient/sound1"]
+		},
+		"sound.2": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/ambient/sound2"]
+		},
+		"sound.3": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/ambient/sound3"]
+		},
+		"sound.4": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/ambient/sound4"]
+		},
+		"sound.5": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/ambient/sound5"]
+		},
+		"sound.6": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/ambient/sound6"]
+		},
+		"sound.7": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/ambient/sound7"]
+		},
+		"music.1": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music1"]
+		},
+		"music.2": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music2"]
+		},
+		"music.3": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music3"]
+		},
+		"music.4": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music4"]
+		},
+		"music.5": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music5"]
+		},
+		"music.6": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music6"]
+		},
+		"music.7": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music7"]
+		},
+		"music.8": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music8"]
+		},
+		"music.9_1": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music9_1"]
+		},
+		"music.9_2": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music9_2"]
+		},
+		"music.10": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music10"]
+		},
+		"music.11": {
+			"category": "music",
+			"sounds": ["sounds/city_under_control/music/music11"]
+		},
+		"overwatch.en1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice1"]
+		},
+        "overwatch.en2": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice2"]
+		},
+        "overwatch.en3": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice3"]
+		},
+        "overwatch.en4": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice4"]
+		},
+        "overwatch.en5": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice5"]
+		},
+        "overwatch.en6": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice6"]
+		},
+        "overwatch.en7": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice7"]
+		},
+        "overwatch.en8": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice8"]
+		},
+        "overwatch.en9": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice9"]
+		},
+        "overwatch.en10": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice10"]
+		},
+        "overwatch.en11": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice11"]
+		},
+        "overwatch.en12": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice12"]
+		},
+        "overwatch.en13": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/EN/voice13"]
+		},
+		"overwatch.fr1": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice1"]
+		},
+        "overwatch.fr2": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice2"]
+		},
+        "overwatch.fr3": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice3"]
+		},
+        "overwatch.fr4": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice4"]
+		},
+        "overwatch.fr5": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice5"]
+		},
+        "overwatch.fr6": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice6"]
+		},
+        "overwatch.fr7": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice7"]
+		},
+        "overwatch.fr8": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice8"]
+		},
+        "overwatch.fr9": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice9"]
+		},
+        "overwatch.fr10": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice10"]
+		},
+        "overwatch.fr11": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice11"]
+		},
+        "overwatch.fr12": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice12"]
+		},
+        "overwatch.fr13": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice13"]
+		},
+        "overwatch.fr14": {
+			"category": "ambient",
+			"sounds": ["sounds/city_under_control/voice/overwatch/FR/voice14"]
+		}
+	}
+}
